@@ -1,7 +1,7 @@
 **Jet Recovery**
 
 Recover data from a damaged Microsoft Access database.
-Copyright
+
 I wrote this in 2017 over a weekend to save a customer from my old IT job.
 
 Program Description:
